@@ -8,7 +8,7 @@ Database:
 https://db2w-seirbtf.us-south.db2w.cloud.ibm.com/console/#load/wizard/detail
 
 "password": "JsE3RRmBHC6d0udG@jjoCa3HsKtsS", 
-"username": "blueadmin", 
+"username": "bluadmin", 
 
 
 25-Feb-2020
